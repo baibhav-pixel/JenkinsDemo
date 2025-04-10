@@ -20,5 +20,6 @@ public class Calculator
 		Calculator c = new Calculator();
 		System.out.println(c.add(5,6));
 		System.out.println(c.subtract(11,4));
+		System.out.println(c.mul(10,4));
 	}
 }
